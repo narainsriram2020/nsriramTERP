@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Deployment on Render</title>
+</head>
+
+<body>
+    <h1>Sample Page for Deployment on Render</h1>
+    <ul>
+        <li><b>Name: </b>Narain Sriram</li>
+        <li><b>GitHub Location:</b> <a
+                href="https://github.com/narainsriram2020/nsriramTERP">https://github.com/narainsriram2020/nsriramTERP</a>
+        </li>
+        <li><b>Render Location:</b> <a href="https://nsriramterp.onrender.com">https://nsriramterp.onrender.com</a>
+        </li>
+        <li><b>Clearing Database Movies:</b> <a
+                href="https://nsriramterp.onrender.com/clearCollection">https://nsriramterp.onrender.com/clearCollection</a>
+        </li>
+        <li><b>Inserting Movies:</b> <a
+                href="https://nsriramterp.onrender.com/insertMovies">https://nsriramterp.onrender.com/insertMovies</a>
+        </li>
+        <li><b>List Movies:</b> <a
+                href="https://nsriramterp.onrender.com/listMovies">https://nsriramterp.onrender.com/listMovies</a>
+        </li>
+    </ul>
+</body>
+
+</html>
